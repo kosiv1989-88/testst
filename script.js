@@ -21,3 +21,13 @@ personaMovieDB.movies[c] = d;
 
 console.log(personaMovieDB);
 
+// const hamburger = 3;
+// const fries = 3;
+// const cols = 0;
+// const nuggets = 0;
+
+// if (hamburger === 3 && cols || fries ===3 && nuggets) {
+//     console.log("Done")
+// } else {console.log ("No")
+// }
+
