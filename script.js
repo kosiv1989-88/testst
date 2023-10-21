@@ -21,13 +21,37 @@ personaMovieDB.movies[c] = d;
 
 console.log(personaMovieDB);
 
-// const hamburger = 3;
-// const fries = 3;
+// let hamburger;
+// const fries = NaN;
 // const cols = 0;
-// const nuggets = 0;
+// const nuggets = 2;
 
-// if (hamburger === 3 && cols || fries ===3 && nuggets) {
+// if (hamburger && cols || fries ===3 && nuggets) {
 //     console.log("Done")
-// } else {console.log ("No")
+// } 
+
+
+
+// for (let i = 0; i < 3; i++) {
+//     console.log(i)
+//     for (let i = 0; i < 3; i++) {
+//         console.log(i)    
+//     }
 // }
 
+
+
+// let result = '';
+// const lenght = 7;
+
+// for (let i = 1; i < lenght; i++) {
+
+//     for (let j = 0; j < i; j++) {
+//         result += '*';
+//     }
+
+
+//     result += '\n';
+// }
+
+// console.log(result);
