@@ -106,10 +106,62 @@
     // console.log(result)
 
 
-    const lines = 5;
-    let result = '';
+    // const lines = 5;
+    // let result = '';
     
-    for (let i =0; i < lines; i++) {
+    // for (let i = 0; i <= lines; i++) {
+    //     for (let j = 0; j < lines - i; j++) {
+    //         result += " ";
+    //     }
+    //     for (let j = 0; j < 2 * i + 1; j++) {
+    //         result += "*";
+    //     }
+    //     result += "\n";
+    // }
     
+    // console.log(result)
+
+    // let num = 50;
+
+    // function showFirstMessage(text) {
+    //     console.log(text);
+    //      num = 10
+    // }
+
+    // showFirstMessage('Hello World');
+    // console.log(num);
+
+    // function calc(a,b) {
+    //     return(a+b);
+    // }
+    // console.log(calc(4,3));
+    // console.log(calc(5,6));
+    // console.log(calc(10,6));
+
+    // function ret() {
+    //     let num =50;
+    //     return num
+    // }
+    
+    // const anotherNum = ret();
+    // console.log(anotherNum);
+
+    // const logger = function() {
+    //     console.log('Hello world');
+    // };
+    //  logger();
+
+    // const calc = (a, b) => { 
+    //     console.log('1')
+    //     return a + b
+    // };
+
+    const usdCurr = 28;
+    const eurCurr = 32;
+
+    function convert(amount, curr) {
+        console.log(curr * amount);
     }
-    
+
+    convert(500, usdCurr);
+    convert(500, eurCurr);
