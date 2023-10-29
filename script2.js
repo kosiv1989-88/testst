@@ -156,12 +156,62 @@
     //     return a + b
     // };
 
-    const usdCurr = 28;
-    const eurCurr = 32;
+    // const usdCurr = 28;
+    // const eurCurr = 32;
 
-    function convert(amount, curr) {
-        console.log(curr * amount);
-    }
+    // function convert(amount, curr) {
+    //     console.log(curr * amount);
+    // }
 
-    convert(500, usdCurr);
-    convert(500, eurCurr);
+    // convert(500, usdCurr);
+    // convert(500, eurCurr);
+
+    // const usdCurr = 28;
+    // const discount = 0.9;
+
+    // function convert(amount, curr) {
+    //     return curr * amount
+    // }
+
+    // function promotion(result) {
+    //     console.log(result * discount)
+    // }
+
+    // const res = convert(500, usdCurr);
+    // promotion(res)
+
+
+    // function sayHello(name) {
+    //     return `Привет, ${name}!`;
+    // }
+    
+    // sayHello('Alex')
+
+    // function returnNeighboringNumbers(num) {
+    //         return [num - 1, num, num + 1];
+    // }
+
+    // console.log(returnNeighboringNumbers(5))
+
+//     function getMathResult(a,b) {
+//         if ( typeof(b) !== 'number' || b <= 0 ) {
+//         return a
+//         }
+//    let str = '';
+
+//    for (i = 1; i <= b; i++) {
+//     if (i === b) {
+//         str += `${a * i}`;
+//     } else {
+//         str += `${a * i}---`;
+//     }
+  
+// } 
+// return str
+//     }
+//     console.log(getMathResult(3,5))
+
+
+
+  
+    
